@@ -1,6 +1,5 @@
 # Escape-Together-The-Forgotten-Realms
-##
-ENG
+## ENG
 
 In lands forgotten by time, where humanity’s ancient secrets lie buried in the darkest corners of nature, there existed a world steeped in mystery. According to legends, beings known as the "Ancient Guardians" were created to preserve the balance of the world and protect the energy stones that contained the essence of life itself. These stones held the greatest secrets of the universe—controlling the cycles of life, death, and rebirth. But, as greedy civilizations sought to claim their power, the stones were hidden away and entrusted to the Ancient Guardians.
 
@@ -16,8 +15,7 @@ All the while, the leader of the Shadow Hunters watches from the darkness. Step 
 
 # Birlikte Kaçış: Unutulmuş Diyarlar
 
-##
-TR
+## TR
 
 Zamanın unuttuğu topraklarda, insanlığın eski çağlardan kalma sırları taşıdığı ve bu sırların doğanın en karanlık köşelerine gömüldüğü bir dünya vardı. Bu topraklarda anlatılan efsanelere göre, "Kadim Muhafızlar" adı verilen varlıklar, bir zamanlar dünyayı denge içinde tutan ve yaşamın özünü barındıran enerji taşlarını korumak için yaratılmışlardı. Bu taşlar, evrenin en büyük sırlarını barındırıyor; yaşam, ölüm ve yeniden doğuş döngüsünü kontrol ediyordu. Ancak taşları ele geçirmek isteyen açgözlü medeniyetler yüzünden, bu taşlar saklandı ve kadim muhafızların ellerine emanet edildi.
 
